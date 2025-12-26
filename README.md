@@ -10,7 +10,7 @@
 
 ## 🎯 About Me
 
-### 🇬🇧 English
+###   English
 Hi 👋 I build **real-time mmWave radar systems** for indoor sensing — from **raw ADC capture** to **DSP**, **tracking**, and **activity / fall understanding**.
 
 My current work focuses on:
@@ -22,7 +22,7 @@ My current work focuses on:
 
 ---
 
-### 🇯🇵 日本語
+###   日本語
 こんにちは 👋 屋内環境における **mmWave レーダのリアルタイムセンシング**を研究・開発しています。  
 **Raw ADC 取得 → DSP 信号処理 → Tracking → 行動/転倒理解**までを一気通貫で実装し、安定して動くリアルタイムパイプラインを作ることを重視しています。
 
