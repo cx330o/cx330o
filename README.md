@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 About Me (EN / 日本語)
+## 🎯 About Me
 
 ### 🇬🇧 English
 Hi 👋 I build **real-time mmWave radar systems** for indoor sensing — from **raw ADC capture** to **DSP**, **tracking**, and **activity / fall understanding**.
