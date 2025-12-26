@@ -38,18 +38,16 @@ My current work focuses on:
 ## 🧷 Keywords & Project Links
 
 - **mmWave / IWR6843 / DCA1000**
-  - TI IWR6843 + DCA1000 기반의 **raw ADC acquisition + real-time processing**
+  - TI IWR6843 + DCA1000 **raw ADC acquisition + real-time processing**
 - **Real-time Radar Pipeline**
   - End-to-end streaming: capture → DSP → visualization → tracking → recognition
 - **Fall Detection**
   - Phase-aware (stepwise) fall understanding for indoor safety
 
 🔗 **Pinned / related repos**:  
-- `mmWave real-time pipeline` — (add your repo link here)  
-- `IWR6843 + DCA1000 capture & DSP` — (add your repo link here)  
-- `Fall detection / micro-Doppler experiments` — (add your repo link here)
-
-> 提示：把上面三行的 “(add your repo link here)” 换成你自己的仓库链接即可。
+- `mmWave real-time pipeline`
+- `IWR6843 + DCA1000 capture & DSP`
+- `Fall detection / micro-Doppler experiments` 
 
 ---
 
