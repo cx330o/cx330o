@@ -98,7 +98,7 @@ My current work focuses on:
 
 <div align="center">
 
-### ✨ Signal in. Noise out.
+### ✨✨✨ 
 
 **EN** — *I know nothing for certain — but the stars still make me dream.*  
 **JP** — *確かなことは何も分からない。けれど星空は、今も夢を見させてくれる。*
