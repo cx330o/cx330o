@@ -29,7 +29,7 @@ MAX_TOPICS = 15
 EXCLUDE_REPOS: set[str] = set()   # e.g. {"cx330o"}
 
 HEADERS = {
-    "Accept": "application/vnd.github+json",
+    "Accept": "application/vnd.github.mercy-preview+json",  # needed for topics
     "User-Agent": "readme-updater",
 }
 if TOKEN:
@@ -353,13 +353,45 @@ def build_quote() -> str:
 # ── Topic extraction ────────────────────────────────────────────────
 
 def extract_topics(repos: list[dict]) -> list[str]:
-    """Aggregate topics from all repos, sorted by frequency."""
+    """Aggregate keywords from repo topics, languages, and descriptions."""
     counts: dict[str, int] = {}
+
     for r in repos:
+        # 1) topics (if any)
         for t in r.get("topics", []):
-            counts[t] = counts.get(t, 0) + 1
+            counts[t] = counts.get(t, 0) + 2  # weight topics higher
+
+        # 2) language as keyword
+        lang = r.get("language")
+        if lang:
+            key = lang.lower().replace(" ", "-")
+            counts[key] = counts.get(key, 0) + 1
+
+        # 3) extract meaningful words from description
+        desc = r.get("description") or ""
+        for word in desc.split():
+            # clean punctuation, keep words 3+ chars, skip common words
+            clean = word.strip(".,;:!?()[]{}\"'`—-–/\\|").lower()
+            if len(clean) >= 3 and clean not in STOP_WORDS:
+                counts[clean] = counts.get(clean, 0) + 1
+
     sorted_topics = sorted(counts, key=lambda k: counts[k], reverse=True)
     return sorted_topics[:MAX_TOPICS]
+
+
+# Common words to skip when extracting from descriptions
+STOP_WORDS = {
+    "the", "and", "for", "with", "from", "this", "that", "are", "was",
+    "were", "been", "being", "have", "has", "had", "does", "did", "will",
+    "would", "could", "should", "may", "might", "can", "shall", "not",
+    "but", "yet", "nor", "both", "either", "neither", "each", "every",
+    "all", "any", "few", "more", "most", "other", "some", "such", "than",
+    "too", "very", "just", "about", "above", "after", "again", "also",
+    "into", "only", "over", "then", "there", "these", "they", "through",
+    "under", "until", "when", "where", "which", "while", "who", "whom",
+    "why", "how", "what", "here", "our", "out", "its", "you", "your",
+    "use", "using", "used", "based", "via", "etc", "new", "one", "two",
+}
 
 
 # ── README injection ────────────────────────────────────────────────
