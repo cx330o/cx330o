@@ -1,53 +1,63 @@
 <div align="center">
 
-# cx330o — Real-time mmWave Radar Sensing
+  <!-- Hero / Coding Picture (auto switch by theme) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
 
-**mmWave · IWR6843 · DCA1000 · Real-time DSP · Indoor Tracking · Stepwise Fall Detection**
+  <div>&nbsp;</div>
+
+  <!-- Dynamic Emojis -->
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Four%20Leaf%20Clover.png" alt="Four Leaf Clover" width="55" height="55" />
+  </div>
+
+  <h1>Welcome to cx330o's GitHub 🍀</h1>
+
+  <!-- TYPING:START -->
+  <!-- TYPING:END -->
+
+  <div>&nbsp;</div>
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🔑 Keywords (auto-updated)
 
-###   English
-Hi 👋 I build **real-time mmWave radar systems** for indoor sensing — from **raw ADC capture** to **DSP**, **tracking**, and **activity / fall understanding**.
-
-My current work focuses on:
-- **Multi-representation radar features**: range–time / range–Doppler / micro-Doppler / point cloud  
-- **Robust real-time tracking**: stable trajectories under clutter, occlusion, and multi-target scenes  
-- **Stepwise fall detection**: modeling *phases* (pre-fall → descent → impact → post-fall) instead of only “fall / no-fall”
-
-**Research keywords:** mmWave Radar · IWR6843 · DCA1000 · Real-time DSP · Indoor Tracking · Micro-Doppler · Point Cloud · Sensor Fusion · Fall Detection
+<!-- KEYWORDS:START -->
+_⏳ Waiting for first auto-update ..._
+<!-- KEYWORDS:END -->
 
 ---
 
-###   日本語
-こんにちは 👋 屋内環境における **mmWave レーダのリアルタイムセンシング**を研究・開発しています。  
-**Raw ADC 取得 → DSP 信号処理 → Tracking → 行動/転倒理解**までを一気通貫で実装し、安定して動くリアルタイムパイプラインを作ることを重視しています。
+## 🧰 Tech Stack (auto-updated)
 
-現在の重点テーマ：
-- **複数表現の活用**：range–time / range–Doppler / micro-Doppler / point cloud  
-- **鲁棒なリアルタイム追跡**：クラッタ・遮蔽・複数人物でも軌跡を安定化  
-- **段階的転倒検出**：pre-fall → descent → impact → post-fall の *フェーズ* を理解（単純な二値分類ではない）
+<div align="center">
 
-**キーワード：** mmWave Radar · IWR6843 · DCA1000 · Real-time DSP · Indoor Tracking · Micro-Doppler · Point Cloud · Sensor Fusion · Fall Detection
+<!-- TECHSTACK:START -->
+_⏳ Waiting for first auto-update ..._
+<!-- TECHSTACK:END -->
+
+</div>
 
 ---
 
-## 🧷 Keywords & Project Links
+## 📂 Active Projects (auto-updated)
 
-- **mmWave / IWR6843 / DCA1000**
-  - TI IWR6843 + DCA1000 **raw ADC acquisition + real-time processing**
-- **Real-time Radar Pipeline**
-  - End-to-end streaming: capture → DSP → visualization → tracking → recognition
-- **Fall Detection**
-  - Phase-aware (stepwise) fall understanding for indoor safety
+<div align="center">
 
-🔗 **Pinned / related repos**:  
-- `mmWave real-time pipeline`
-- `IWR6843 + DCA1000 capture & DSP`
-- `Fall detection / micro-Doppler experiments` 
+<!-- PROJECTS:START -->
+_⏳ Waiting for first auto-update ..._
+<!-- PROJECTS:END -->
+
+</div>
 
 ---
 
@@ -85,6 +95,59 @@ My current work focuses on:
 
 ---
 
+## ⚡ Recent Activity (auto-updated)
+
+<!-- ACTIVITY:START -->
+_⏳ Waiting for first auto-update ..._
+<!-- ACTIVITY:END -->
+
+---
+
+## 📈 Stats / Trophies / Activity
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=cx330o&show_icons=true&theme=radical&hide_border=true" />
+
+<br/><br/>
+
+<!-- Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=cx330o&row=1&column=6&theme=juicyfresh&no-frame=true&no-bg=true" />
+
+<br/><br/>
+
+<!-- Activity Graph (auto switch by theme) -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=cx330o&theme=tokyo-night" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cx330o&theme=xcode" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=cx330o&theme=tokyo-night" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🐍 Snake Eating Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cx330o/cx330o/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/cx330o/cx330o/blob/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://github.com/cx330o/cx330o/blob/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🧊 3D Contribution
 
 <div align="center">
@@ -98,9 +161,8 @@ My current work focuses on:
 
 <div align="center">
 
-### ✨✨✨ 
-
-**EN** — *I know nothing for certain — but the stars still make me dream.*  
-**JP** — *確かなことは何も分からない。けれど星空は、今も夢を見させてくれる。*
+<!-- QUOTE:START -->
+_⏳ Waiting for first auto-update ..._
+<!-- QUOTE:END -->
 
 </div>
