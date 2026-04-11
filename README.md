@@ -20,7 +20,7 @@
 
 ---
 
-## 🔑 Keywords (auto-updated)
+## 🔑 Keywords
 
 <!-- KEYWORDS:START -->
 _No topics found across repositories._
@@ -29,7 +29,7 @@ _No topics found across repositories._
 
 ---
 
-## 🧰 Tech Stack (auto-updated)
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -42,7 +42,7 @@ _No topics found across repositories._
 
 ---
 
-## 📂 Active Projects (auto-updated)
+## 📂 Active Projects
 
 <div align="center">
 
@@ -60,7 +60,7 @@ _No topics found across repositories._
 
 ---
 
-## 📊 GitHub Overview (auto-generated)
+## 📊 GitHub Overview
 
 <div align="center">
 
@@ -94,7 +94,7 @@ _No topics found across repositories._
 
 ---
 
-## ⚡ Recent Activity (auto-updated)
+## ⚡ Recent Activity
 
 <!-- ACTIVITY:START -->
 - 📌 Pushed **0** commits to `main` in [cx330o/cx330o](https://github.com/cx330o/cx330o)
@@ -110,19 +110,9 @@ _No topics found across repositories._
 
 ---
 
-## 📈 Stats / Trophies / Activity
+## 📈 Activity Graph
 
 <div align="center">
-
-<!-- GitHub Stats (use github-readme-stats official instance with cache busting) -->
-<img src="https://github-readme-stats.vercel.app/api?username=cx330o&show_icons=true&theme=radical&hide_border=true&cache_seconds=7200" />
-
-<br/><br/>
-
-<!-- Trophy (use alternative mirror for reliability) -->
-<img src="https://github-profile-trophy.vercel.app/?username=cx330o&row=1&column=6&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=5" />
-
-<br/><br/>
 
 <!-- Activity Graph (auto switch by theme) -->
 <table>

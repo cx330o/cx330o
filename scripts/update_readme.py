@@ -266,7 +266,10 @@ def format_event(ev: dict) -> str | None:
     repo_link = f"[{repo}](https://github.com/{repo})"
 
     if etype == "PushEvent":
-        n = payload.get("size", 0)
+        commits = payload.get("commits", [])
+        n = len(commits) if commits else payload.get("size", 0)
+        if n == 0:
+            return None  # skip empty pushes (e.g. workflow auto-commits)
         branch = (payload.get("ref") or "").replace("refs/heads/", "")
         return f"{emoji} Pushed **{n}** commit{'s' if n != 1 else ''} to `{branch}` in {repo_link}"
     if etype == "CreateEvent":
