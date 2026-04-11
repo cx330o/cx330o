@@ -23,7 +23,7 @@
 ## 🔑 Keywords
 
 <!-- KEYWORDS:START -->
-![python](https://img.shields.io/badge/python-blue?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-green?style=flat-square) ![法政大学3キャンパス統合プラットフォーム](https://img.shields.io/badge/法政大学3キャンパス統合プラットフォーム-orange?style=flat-square) ![電車・バス時刻表](https://img.shields.io/badge/電車・バス時刻表-red?style=flat-square) ![学生sns](https://img.shields.io/badge/学生sns-purple?style=flat-square) ![aiチャットボット](https://img.shields.io/badge/aiチャットボット-brightgreen?style=flat-square) ![react](https://img.shields.io/badge/react-yellow?style=flat-square) ![flask](https://img.shields.io/badge/flask-blueviolet?style=flat-square) ![groq](https://img.shields.io/badge/groq-ff69b4?style=flat-square) ![llama](https://img.shields.io/badge/llama-00CED1?style=flat-square)
+![react](https://img.shields.io/badge/react-blue?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-green?style=flat-square) ![python](https://img.shields.io/badge/python-orange?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-red?style=flat-square) ![lightweight](https://img.shields.io/badge/lightweight-purple?style=flat-square) ![self hosted](https://img.shields.io/badge/self--hosted-brightgreen?style=flat-square) ![web](https://img.shields.io/badge/web-yellow?style=flat-square) ![clipboard](https://img.shields.io/badge/clipboard-blueviolet?style=flat-square) ![sharing](https://img.shields.io/badge/sharing-ff69b4?style=flat-square) ![text](https://img.shields.io/badge/text-00CED1?style=flat-square) ![files](https://img.shields.io/badge/files-blue?style=flat-square) ![across](https://img.shields.io/badge/across-green?style=flat-square) ![devices](https://img.shields.io/badge/devices-orange?style=flat-square) ![built](https://img.shields.io/badge/built-red?style=flat-square) ![express](https://img.shields.io/badge/express-purple?style=flat-square)
 
 <!-- KEYWORDS:END -->
 
@@ -34,7 +34,7 @@
 <div align="center">
 
 <!-- TECHSTACK:START -->
-[![Tech Stack](https://skillicons.dev/icons?i=ts,py,git,github,vscode,linux&theme=dark&perline=6)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=ts,py,js,git,github,vscode,linux&theme=dark&perline=7)](https://skillicons.dev)
 
 <!-- TECHSTACK:END -->
 
@@ -49,7 +49,10 @@
 <!-- PROJECTS:START -->
 | Project | Description | Language | Stars | Updated |
 |---------|-------------|----------|-------|---------|
-| 🔷 [cx330o-hosei](https://github.com/cx330o/cx330o-hosei) | 法政大学3キャンパス統合プラットフォーム - 電車・バス時刻表 + 学生SNS + AIチャットボット \| React 19 + Flask + Groq... | TypeScript | ⭐ 3 | today |
+| 🟨 [cx330o-fastsend](https://github.com/cx330o/cx330o-fastsend) | A lightweight, self-hosted web clipboard for sharing text and files across de... | JavaScript |  | today |
+| 🔷 [cx330o-agent](https://github.com/cx330o/cx330o-agent) | Full-stack AI agent platform with multi-turn tool calling, real-time streamin... | TypeScript |  | today |
+| 🔷 [cx330o-hosei](https://github.com/cx330o/cx330o-hosei) | 法政大学3キャンパス統合プラットフォーム - 電車・バス時刻表 + 学生SNS + AIチャットボット \| React 19 + Flask + Groq... | TypeScript | ⭐ 3 | yesterday |
+| 🐍 [cx330o-radar](https://github.com/cx330o/cx330o-radar) | リアルタイムミリ波レーダーデータ取得・可視化システム | Python | ⭐ 28 | 2 months ago |
 
 <!-- PROJECTS:END -->
 
@@ -94,6 +97,7 @@
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY:START -->
+- 🆕 Created branch `main` in [cx330o/cx330o-agent](https://github.com/cx330o/cx330o-agent)
 - ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
 
 <!-- ACTIVITY:END -->
