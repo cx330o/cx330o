@@ -9,7 +9,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Four%20Leaf%20Clover.png" alt="Four Leaf Clover" width="55" height="55" />
   </div>
 
-  <h1>Welcome to cx330o's GitHub 🍀</h1>
+  <h1>Welcome to cx330o's GitHub</h1>
 
   <!-- TYPING:START -->
   <!-- TYPING:END -->
