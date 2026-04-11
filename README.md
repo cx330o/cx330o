@@ -1,14 +1,5 @@
 <div align="center">
 
-  <!-- Hero / Coding Picture (auto switch by theme) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
-
-  <div>&nbsp;</div>
-
   <!-- Dynamic Emojis -->
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
@@ -123,13 +114,13 @@ _No topics found across repositories._
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=cx330o&show_icons=true&theme=radical&hide_border=true" />
+<!-- GitHub Stats (use github-readme-stats official instance with cache busting) -->
+<img src="https://github-readme-stats.vercel.app/api?username=cx330o&show_icons=true&theme=radical&hide_border=true&cache_seconds=7200" />
 
 <br/><br/>
 
-<!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=cx330o&row=1&column=6&theme=juicyfresh&no-frame=true&no-bg=true" />
+<!-- Trophy (use alternative mirror for reliability) -->
+<img src="https://github-profile-trophy.vercel.app/?username=cx330o&row=1&column=6&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=5" />
 
 <br/><br/>
 
