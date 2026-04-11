@@ -23,7 +23,7 @@
 ## 🔑 Keywords
 
 <!-- KEYWORDS:START -->
-_No topics found across repositories._
+![python](https://img.shields.io/badge/python-blue?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-green?style=flat-square) ![法政大学3キャンパス統合プラットフォーム](https://img.shields.io/badge/法政大学3キャンパス統合プラットフォーム-orange?style=flat-square) ![電車・バス時刻表](https://img.shields.io/badge/電車・バス時刻表-red?style=flat-square) ![学生sns](https://img.shields.io/badge/学生sns-purple?style=flat-square) ![aiチャットボット](https://img.shields.io/badge/aiチャットボット-brightgreen?style=flat-square) ![react](https://img.shields.io/badge/react-yellow?style=flat-square) ![flask](https://img.shields.io/badge/flask-blueviolet?style=flat-square) ![groq](https://img.shields.io/badge/groq-ff69b4?style=flat-square) ![llama](https://img.shields.io/badge/llama-00CED1?style=flat-square)
 
 <!-- KEYWORDS:END -->
 
