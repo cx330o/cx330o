@@ -26,7 +26,7 @@ README_PATH = os.getenv("README_PATH", "README.md")
 MAX_ACTIVITY = 8
 MAX_REPOS = 6
 MAX_TOPICS = 15
-EXCLUDE_REPOS: set[str] = set()   # e.g. {"cx330o"}
+EXCLUDE_REPOS: set[str] = {"cx330o"}   # skip profile repo itself
 
 HEADERS = {
     "Accept": "application/vnd.github.mercy-preview+json",  # needed for topics
@@ -219,13 +219,18 @@ def build_projects(repos: list[dict]) -> str:
     for r in repos:
         if r["name"] in EXCLUDE_REPOS:
             continue
+        # skip repos with no description — they look bad in the table
+        if not r.get("description"):
+            continue
         if len(rows) >= MAX_REPOS:
             break
         name = r["name"]
         full = r["full_name"]
-        desc = (r.get("description") or "—")[:80]
-        if len(r.get("description") or "") > 80:
+        desc = r.get("description", "")
+        if len(desc) > 80:
             desc = desc[:77] + "..."
+        # escape pipe characters so they don't break the markdown table
+        desc = desc.replace("|", "\\|")
         lang = r.get("language") or "—"
         emoji = LANG_EMOJI.get(lang, "📦")
         stars = r.get("stargazers_count", 0)
