@@ -32,7 +32,8 @@
 ## 🔑 Keywords (auto-updated)
 
 <!-- KEYWORDS:START -->
-_⏳ Waiting for first auto-update ..._
+_No topics found across repositories._
+
 <!-- KEYWORDS:END -->
 
 ---
@@ -42,7 +43,8 @@ _⏳ Waiting for first auto-update ..._
 <div align="center">
 
 <!-- TECHSTACK:START -->
-_⏳ Waiting for first auto-update ..._
+[![Tech Stack](https://skillicons.dev/icons?i=ts,py,git,github,vscode,linux&theme=dark&perline=6)](https://skillicons.dev)
+
 <!-- TECHSTACK:END -->
 
 </div>
@@ -54,7 +56,13 @@ _⏳ Waiting for first auto-update ..._
 <div align="center">
 
 <!-- PROJECTS:START -->
-_⏳ Waiting for first auto-update ..._
+| Project | Description | Language | Stars | Updated |
+|---------|-------------|----------|-------|---------|
+| 📦 [cx330o](https://github.com/cx330o/cx330o) | — | — |  | today |
+| 🔷 [cx330o-overseas-sales](https://github.com/cx330o/cx330o-overseas-sales) | — | TypeScript |  | today |
+| 🔷 [cx330o-hosei](https://github.com/cx330o/cx330o-hosei) | 法政大学3キャンパス統合プラットフォーム - 電車・バス時刻表 + 学生SNS + AIチャットボット | React 19 + Flask + Groq... | TypeScript | ⭐ 3 | today |
+| 🐍 [cx330o-radar](https://github.com/cx330o/cx330o-radar) | — | Python | ⭐ 28 | 2 months ago |
+
 <!-- PROJECTS:END -->
 
 </div>
@@ -98,7 +106,15 @@ _⏳ Waiting for first auto-update ..._
 ## ⚡ Recent Activity (auto-updated)
 
 <!-- ACTIVITY:START -->
-_⏳ Waiting for first auto-update ..._
+- 📌 Pushed **0** commits to `main` in [cx330o/cx330o](https://github.com/cx330o/cx330o)
+- 📌 Pushed **0** commits to `master` in [cx330o/cx330o-overseas-sales](https://github.com/cx330o/cx330o-overseas-sales)
+- 📌 Pushed **0** commits to `master` in [cx330o/cx330o-overseas-sales](https://github.com/cx330o/cx330o-overseas-sales)
+- 📌 Pushed **0** commits to `master` in [cx330o/cx330o-overseas-sales](https://github.com/cx330o/cx330o-overseas-sales)
+- 📌 Pushed **0** commits to `master` in [cx330o/cx330o-hosei](https://github.com/cx330o/cx330o-hosei)
+- 📌 Pushed **0** commits to `master` in [cx330o/cx330o-hosei](https://github.com/cx330o/cx330o-hosei)
+- 📌 Pushed **0** commits to `master` in [cx330o/cx330o-hosei](https://github.com/cx330o/cx330o-hosei)
+- 📌 Pushed **0** commits to `master` in [cx330o/cx330o-hosei](https://github.com/cx330o/cx330o-hosei)
+
 <!-- ACTIVITY:END -->
 
 ---
@@ -162,7 +178,8 @@ _⏳ Waiting for first auto-update ..._
 <div align="center">
 
 <!-- QUOTE:START -->
-_⏳ Waiting for first auto-update ..._
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Simplicity+is+the+soul+of+efficiency.&author=Austin+Freeman" />
+
 <!-- QUOTE:END -->
 
 </div>
