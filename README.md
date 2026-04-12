@@ -23,7 +23,7 @@
 ## 🔑 Keywords
 
 <!-- KEYWORDS:START -->
-![react](https://img.shields.io/badge/react-blue?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-green?style=flat-square) ![python](https://img.shields.io/badge/python-orange?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-red?style=flat-square) ![lightweight](https://img.shields.io/badge/lightweight-purple?style=flat-square) ![self hosted](https://img.shields.io/badge/self--hosted-brightgreen?style=flat-square) ![web](https://img.shields.io/badge/web-yellow?style=flat-square) ![clipboard](https://img.shields.io/badge/clipboard-blueviolet?style=flat-square) ![sharing](https://img.shields.io/badge/sharing-ff69b4?style=flat-square) ![text](https://img.shields.io/badge/text-00CED1?style=flat-square) ![files](https://img.shields.io/badge/files-blue?style=flat-square) ![across](https://img.shields.io/badge/across-green?style=flat-square) ![devices](https://img.shields.io/badge/devices-orange?style=flat-square) ![built](https://img.shields.io/badge/built-red?style=flat-square) ![express](https://img.shields.io/badge/express-purple?style=flat-square)
+![typescript](https://img.shields.io/badge/typescript-blue?style=flat-square) ![react](https://img.shields.io/badge/react-green?style=flat-square) ![python](https://img.shields.io/badge/python-orange?style=flat-square) ![lightweight](https://img.shields.io/badge/lightweight-red?style=flat-square) ![self hosted](https://img.shields.io/badge/self--hosted-purple?style=flat-square) ![web](https://img.shields.io/badge/web-brightgreen?style=flat-square) ![clipboard](https://img.shields.io/badge/clipboard-yellow?style=flat-square) ![sharing](https://img.shields.io/badge/sharing-blueviolet?style=flat-square) ![text](https://img.shields.io/badge/text-ff69b4?style=flat-square) ![files](https://img.shields.io/badge/files-00CED1?style=flat-square) ![across](https://img.shields.io/badge/across-blue?style=flat-square) ![devices](https://img.shields.io/badge/devices-green?style=flat-square) ![built](https://img.shields.io/badge/built-orange?style=flat-square) ![express](https://img.shields.io/badge/express-red?style=flat-square) ![sqlite](https://img.shields.io/badge/sqlite-purple?style=flat-square)
 
 <!-- KEYWORDS:END -->
 
@@ -34,7 +34,7 @@
 <div align="center">
 
 <!-- TECHSTACK:START -->
-[![Tech Stack](https://skillicons.dev/icons?i=ts,py,js,git,github,vscode,linux&theme=dark&perline=7)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=ts,py,git,github,vscode,linux&theme=dark&perline=6)](https://skillicons.dev)
 
 <!-- TECHSTACK:END -->
 
@@ -49,7 +49,7 @@
 <!-- PROJECTS:START -->
 | Project | Description | Language | Stars | Updated |
 |---------|-------------|----------|-------|---------|
-| 🟨 [cx330o-fastsend](https://github.com/cx330o/cx330o-fastsend) | A lightweight, self-hosted web clipboard for sharing text and files across de... | JavaScript |  | today |
+| 🔷 [cx330o-fastsend](https://github.com/cx330o/cx330o-fastsend) | A lightweight, self-hosted web clipboard for sharing text and files across de... | TypeScript |  | today |
 | 🔷 [cx330o-agent](https://github.com/cx330o/cx330o-agent) | Full-stack AI agent platform with multi-turn tool calling, real-time streamin... | TypeScript |  | today |
 | 🔷 [cx330o-hosei](https://github.com/cx330o/cx330o-hosei) | 法政大学3キャンパス統合プラットフォーム - 電車・バス時刻表 + 学生SNS + AIチャットボット \| React 19 + Flask + Groq... | TypeScript | ⭐ 3 | yesterday |
 | 🐍 [cx330o-radar](https://github.com/cx330o/cx330o-radar) | リアルタイムミリ波レーダーデータ取得・可視化システム | Python | ⭐ 28 | 2 months ago |
@@ -153,7 +153,7 @@
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programming+is+the+art+of+telling+another+human+what+one+wants+the+computer+to+do.&author=Donald+Knuth" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Make+it+work,+make+it+right,+make+it+fast.&author=Kent+Beck" />
 
 <!-- QUOTE:END -->
 
