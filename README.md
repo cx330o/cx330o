@@ -23,7 +23,7 @@
 ## 🔑 Keywords
 
 <!-- KEYWORDS:START -->
-![typescript](https://img.shields.io/badge/typescript-blue?style=flat-square) ![react](https://img.shields.io/badge/react-green?style=flat-square) ![python](https://img.shields.io/badge/python-orange?style=flat-square) ![lightweight](https://img.shields.io/badge/lightweight-red?style=flat-square) ![self hosted](https://img.shields.io/badge/self--hosted-purple?style=flat-square) ![web](https://img.shields.io/badge/web-brightgreen?style=flat-square) ![clipboard](https://img.shields.io/badge/clipboard-yellow?style=flat-square) ![sharing](https://img.shields.io/badge/sharing-blueviolet?style=flat-square) ![text](https://img.shields.io/badge/text-ff69b4?style=flat-square) ![files](https://img.shields.io/badge/files-00CED1?style=flat-square) ![across](https://img.shields.io/badge/across-blue?style=flat-square) ![devices](https://img.shields.io/badge/devices-green?style=flat-square) ![built](https://img.shields.io/badge/built-orange?style=flat-square) ![express](https://img.shields.io/badge/express-red?style=flat-square) ![sqlite](https://img.shields.io/badge/sqlite-purple?style=flat-square)
+![typescript](https://img.shields.io/badge/typescript-blue?style=flat-square) ![react](https://img.shields.io/badge/react-green?style=flat-square) ![python](https://img.shields.io/badge/python-orange?style=flat-square) ![海外営業プラットフォーム](https://img.shields.io/badge/海外営業プラットフォーム-red?style=flat-square) ![リード生成・自動アウトリーチ・crm・マーケティング統合基盤](https://img.shields.io/badge/リード生成・自動アウトリーチ・crm・マーケティング統合基盤-purple?style=flat-square) ![lightweight](https://img.shields.io/badge/lightweight-brightgreen?style=flat-square) ![self hosted](https://img.shields.io/badge/self--hosted-yellow?style=flat-square) ![web](https://img.shields.io/badge/web-blueviolet?style=flat-square) ![clipboard](https://img.shields.io/badge/clipboard-ff69b4?style=flat-square) ![sharing](https://img.shields.io/badge/sharing-00CED1?style=flat-square) ![text](https://img.shields.io/badge/text-blue?style=flat-square) ![files](https://img.shields.io/badge/files-green?style=flat-square) ![across](https://img.shields.io/badge/across-orange?style=flat-square) ![devices](https://img.shields.io/badge/devices-red?style=flat-square) ![built](https://img.shields.io/badge/built-purple?style=flat-square)
 
 <!-- KEYWORDS:END -->
 
@@ -49,10 +49,11 @@
 <!-- PROJECTS:START -->
 | Project | Description | Language | Stars | Updated |
 |---------|-------------|----------|-------|---------|
-| 🔷 [cx330o-fastsend](https://github.com/cx330o/cx330o-fastsend) | A lightweight, self-hosted web clipboard for sharing text and files across de... | TypeScript |  | today |
-| 🔷 [cx330o-agent](https://github.com/cx330o/cx330o-agent) | Full-stack AI agent platform with multi-turn tool calling, real-time streamin... | TypeScript |  | today |
-| 🔷 [cx330o-hosei](https://github.com/cx330o/cx330o-hosei) | 法政大学3キャンパス統合プラットフォーム - 電車・バス時刻表 + 学生SNS + AIチャットボット \| React 19 + Flask + Groq... | TypeScript | ⭐ 3 | yesterday |
-| 🐍 [cx330o-radar](https://github.com/cx330o/cx330o-radar) | リアルタイムミリ波レーダーデータ取得・可視化システム | Python | ⭐ 28 | 2 months ago |
+| 🔷 [cx330o-overseas-sales](https://github.com/cx330o/cx330o-overseas-sales) | 海外営業プラットフォーム — AI リード生成・自動アウトリーチ・CRM・マーケティング統合基盤 | TypeScript | ⭐ 4 | today |
+| 🔷 [cx330o-fastsend](https://github.com/cx330o/cx330o-fastsend) | A lightweight, self-hosted web clipboard for sharing text and files across de... | TypeScript | ⭐ 3 | today |
+| 🔷 [cx330o-agent](https://github.com/cx330o/cx330o-agent) | Full-stack AI agent platform with multi-turn tool calling, real-time streamin... | TypeScript | ⭐ 4 | yesterday |
+| 🔷 [cx330o-hosei](https://github.com/cx330o/cx330o-hosei) | 法政大学3キャンパス統合プラットフォーム - 電車・バス時刻表 + 学生SNS + AIチャットボット \| React 19 + Flask + Groq... | TypeScript | ⭐ 3 | 2 days ago |
+| 🐍 [cx330o-radar](https://github.com/cx330o/cx330o-radar) | リアルタイムミリ波レーダーデータ取得・可視化システム | Python | ⭐ 31 | 2 months ago |
 
 <!-- PROJECTS:END -->
 
@@ -97,6 +98,7 @@
 ## ⚡ Recent Activity
 
 <!-- ACTIVITY:START -->
+- 🆕 Created branch `main` in [cx330o/cx330o-overseas-sales](https://github.com/cx330o/cx330o-overseas-sales)
 - 🆕 Created branch `main` in [cx330o/cx330o-agent](https://github.com/cx330o/cx330o-agent)
 - ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
 
@@ -153,7 +155,7 @@
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Talk+is+cheap.+Show+me+the+code.&author=Linus+Torvalds" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perfection+is+achieved+not+when+there+is+nothing+more+to+add,+but+when+there+is+nothing+left+to+take+away.&author=Antoine+de+Saint-Exupéry" />
 
 <!-- QUOTE:END -->
 
