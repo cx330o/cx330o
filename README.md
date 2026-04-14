@@ -49,10 +49,10 @@
 <!-- PROJECTS:START -->
 | Project | Description | Language | Stars | Updated |
 |---------|-------------|----------|-------|---------|
-| 🔷 [cx330o-overseas-sales](https://github.com/cx330o/cx330o-overseas-sales) | 海外営業プラットフォーム — AI リード生成・自動アウトリーチ・CRM・マーケティング統合基盤 | TypeScript | ⭐ 4 | yesterday |
+| 🔷 [cx330o-overseas-sales](https://github.com/cx330o/cx330o-overseas-sales) | 海外営業プラットフォーム — AI リード生成・自動アウトリーチ・CRM・マーケティング統合基盤 | TypeScript | ⭐ 4 | 2 days ago |
 | 🔷 [cx330o-fastsend](https://github.com/cx330o/cx330o-fastsend) | A lightweight, self-hosted web clipboard for sharing text and files across de... | TypeScript | ⭐ 3 | 2 days ago |
-| 🔷 [cx330o-agent](https://github.com/cx330o/cx330o-agent) | Full-stack AI agent platform with multi-turn tool calling, real-time streamin... | TypeScript | ⭐ 4 | 2 days ago |
-| 🔷 [cx330o-hosei](https://github.com/cx330o/cx330o-hosei) | 法政大学3キャンパス統合プラットフォーム - 電車・バス時刻表 + 学生SNS + AIチャットボット \| React 19 + Flask + Groq... | TypeScript | ⭐ 3 | 3 days ago |
+| 🔷 [cx330o-agent](https://github.com/cx330o/cx330o-agent) | Full-stack AI agent platform with multi-turn tool calling, real-time streamin... | TypeScript | ⭐ 4 | 3 days ago |
+| 🔷 [cx330o-hosei](https://github.com/cx330o/cx330o-hosei) | 法政大学3キャンパス統合プラットフォーム - 電車・バス時刻表 + 学生SNS + AIチャットボット \| React 19 + Flask + Groq... | TypeScript | ⭐ 3 | 4 days ago |
 | 🐍 [cx330o-radar](https://github.com/cx330o/cx330o-radar) | リアルタイムミリ波レーダーデータ取得・可視化システム | Python | ⭐ 31 | 2 months ago |
 
 <!-- PROJECTS:END -->
@@ -155,7 +155,7 @@
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+function+of+good+software+is+to+make+the+complex+appear+to+be+simple.&author=Grady+Booch" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First,+solve+the+problem.+Then,+write+the+code.&author=John+Johnson" />
 
 <!-- QUOTE:END -->
 
