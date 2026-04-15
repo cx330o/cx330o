@@ -155,7 +155,7 @@
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First,+solve+the+problem.+Then,+write+the+code.&author=John+Johnson" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programming+is+the+art+of+telling+another+human+what+one+wants+the+computer+to+do.&author=Donald+Knuth" />
 
 <!-- QUOTE:END -->
 
