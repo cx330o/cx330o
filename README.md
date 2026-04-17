@@ -155,7 +155,7 @@
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Debugging+is+twice+as+hard+as+writing+the+code+in+the+first+place.&author=Brian+Kernighan" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Make+it+work,+make+it+right,+make+it+fast.&author=Kent+Beck" />
 
 <!-- QUOTE:END -->
 
