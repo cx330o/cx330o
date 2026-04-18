@@ -155,7 +155,7 @@
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In+theory,+there+is+no+difference+between+theory+and+practice.+In+practice,+there+is.&author=Yogi+Berra" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Talk+is+cheap.+Show+me+the+code.&author=Linus+Torvalds" />
 
 <!-- QUOTE:END -->
 
