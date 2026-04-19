@@ -155,7 +155,7 @@
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+best+error+message+is+the+one+that+never+shows+up.&author=Thomas+Fuchs" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Debugging+is+twice+as+hard+as+writing+the+code+in+the+first+place.&author=Brian+Kernighan" />
 
 <!-- QUOTE:END -->
 
