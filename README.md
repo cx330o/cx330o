@@ -43,7 +43,7 @@
 <!-- PROJECTS:START -->
 | Project | Description | Language | Stars | Updated |
 |---------|-------------|----------|-------|---------|
-| 🔷 [cx330o-fastsend](https://github.com/cx330o/cx330o-fastsend) | A lightweight, self-hosted web clipboard for sharing text and files across de... | TypeScript | ⭐ 3 | 14 days ago |
+| 🔷 [cx330o-fastsend](https://github.com/cx330o/cx330o-fastsend) | A lightweight, self-hosted web clipboard for sharing text and files across de... | TypeScript | ⭐ 3 | 15 days ago |
 | 🔷 [cx330o-agent](https://github.com/cx330o/cx330o-agent) | Full-stack AI agent platform with multi-turn tool calling, real-time streamin... | TypeScript | ⭐ 4 | 15 days ago |
 | 🔷 [cx330o-hosei](https://github.com/cx330o/cx330o-hosei) | 法政大学3キャンパス統合プラットフォーム - 電車・バス時刻表 + 学生SNS + AIチャットボット \| React 19 + Flask + Groq... | TypeScript | ⭐ 3 | 16 days ago |
 | 🐍 [h-radar-v0](https://github.com/cx330o/h-radar-v0) | リアルタイムミリ波レーダーデータ取得・可視化システム | Python | ⭐ 31 | 3 months ago |
@@ -149,7 +149,7 @@
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+only+way+to+go+fast+is+to+go+well.&author=Robert+C.+Martin" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perfection+is+achieved+not+when+there+is+nothing+more+to+add,+but+when+there+is+nothing+left+to+take+away.&author=Antoine+de+Saint-Exupéry" />
 
 <!-- QUOTE:END -->
 
