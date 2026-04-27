@@ -149,7 +149,7 @@
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Talk+is+cheap.+Show+me+the+code.&author=Linus+Torvalds" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+only+way+to+go+fast+is+to+go+well.&author=Robert+C.+Martin" />
 
 <!-- QUOTE:END -->
 
