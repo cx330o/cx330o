@@ -149,7 +149,7 @@
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Simplicity+is+the+soul+of+efficiency.&author=Austin+Freeman" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Talk+is+cheap.+Show+me+the+code.&author=Linus+Torvalds" />
 
 <!-- QUOTE:END -->
 
