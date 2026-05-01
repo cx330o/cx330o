@@ -148,7 +148,7 @@
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Any+fool+can+write+code+that+a+computer+can+understand.+Good+programmers+write+code+that+humans+can+understand.&author=Martin+Fowler" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In+theory,+there+is+no+difference+between+theory+and+practice.+In+practice,+there+is.&author=Yogi+Berra" />
 
 <!-- QUOTE:END -->
 
