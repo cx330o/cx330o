@@ -148,7 +148,7 @@
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programming+is+the+art+of+telling+another+human+what+one+wants+the+computer+to+do.&author=Donald+Knuth" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Make+it+work,+make+it+right,+make+it+fast.&author=Kent+Beck" />
 
 <!-- QUOTE:END -->
 
