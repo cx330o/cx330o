@@ -148,7 +148,7 @@
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Measure+carefully,+build+quickly,+iterate+relentlessly.&author=cx330o" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programming+is+the+art+of+telling+another+human+what+one+wants+the+computer+to+do.&author=Donald+Knuth" />
 
 <!-- QUOTE:END -->
 
