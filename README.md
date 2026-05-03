@@ -148,7 +148,7 @@
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+only+way+to+go+fast+is+to+go+well.&author=Robert+C.+Martin" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Make+it+work,+make+it+right,+make+it+fast.&author=Kent+Beck" />
 
 <!-- QUOTE:END -->
 
