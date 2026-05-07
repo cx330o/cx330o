@@ -148,7 +148,7 @@
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perfection+is+achieved+not+when+there+is+nothing+more+to+add,+but+when+there+is+nothing+left+to+take+away.&author=Antoine+de+Saint-Exupéry" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Measure+carefully,+build+quickly,+iterate+relentlessly.&author=cx330o" />
 
 <!-- QUOTE:END -->
 
