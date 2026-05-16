@@ -146,7 +146,7 @@
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Any+fool+can+write+code+that+a+computer+can+understand.+Good+programmers+write+code+that+humans+can+understand.&author=Martin+Fowler" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+best+error+message+is+the+one+that+never+shows+up.&author=Thomas+Fuchs" />
 
 <!-- QUOTE:END -->
 
