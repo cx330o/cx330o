@@ -146,7 +146,7 @@
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programming+is+the+art+of+telling+another+human+what+one+wants+the+computer+to+do.&author=Donald+Knuth" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Talk+is+cheap.+Show+me+the+code.&author=Linus+Torvalds" />
 
 <!-- QUOTE:END -->
 
