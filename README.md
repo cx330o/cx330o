@@ -146,7 +146,7 @@
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Make+it+work,+make+it+right,+make+it+fast.&author=Kent+Beck" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Any+fool+can+write+code+that+a+computer+can+understand.+Good+programmers+write+code+that+humans+can+understand.&author=Martin+Fowler" />
 
 <!-- QUOTE:END -->
 
