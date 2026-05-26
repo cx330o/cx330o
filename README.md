@@ -46,7 +46,7 @@
 | 🔷 [cx330o-fastsend](https://github.com/cx330o/cx330o-fastsend) | A lightweight, self-hosted web clipboard for sharing text and files across de... | TypeScript | ⭐ 3 | 1 month ago |
 | 🔷 [cx330o-agent](https://github.com/cx330o/cx330o-agent) | Full-stack AI agent platform with multi-turn tool calling, real-time streamin... | TypeScript | ⭐ 4 | 1 month ago |
 | 🔷 [cx330o-hosei](https://github.com/cx330o/cx330o-hosei) | 法政大学3キャンパス統合プラットフォーム - 電車・バス時刻表 + 学生SNS + AIチャットボット \| React 19 + Flask + Groq... | TypeScript | ⭐ 3 | 1 month ago |
-| 🐍 [h-radar-v0](https://github.com/cx330o/h-radar-v0) | リアルタイムミリ波レーダーデータ取得・可視化システム | Python | ⭐ 31 | 3 months ago |
+| 🐍 [h-radar-v0](https://github.com/cx330o/h-radar-v0) | リアルタイムミリ波レーダーデータ取得・可視化システム | Python | ⭐ 31 | 4 months ago |
 
 <!-- PROJECTS:END -->
 
@@ -146,7 +146,7 @@ _Could not fetch activity._
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science+is+what+we+understand+well+enough+to+explain+to+a+computer.+Art+is+everything+else+we+do.&author=Donald+Knuth" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+best+error+message+is+the+one+that+never+shows+up.&author=Thomas+Fuchs" />
 
 <!-- QUOTE:END -->
 
