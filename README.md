@@ -146,7 +146,7 @@ _Could not fetch activity._
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Any+fool+can+write+code+that+a+computer+can+understand.+Good+programmers+write+code+that+humans+can+understand.&author=Martin+Fowler" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Measure+carefully,+build+quickly,+iterate+relentlessly.&author=cx330o" />
 
 <!-- QUOTE:END -->
 
