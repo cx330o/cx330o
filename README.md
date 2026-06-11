@@ -146,7 +146,7 @@ _Could not fetch activity._
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Measure+carefully,+build+quickly,+iterate+relentlessly.&author=cx330o" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+only+way+to+go+fast+is+to+go+well.&author=Robert+C.+Martin" />
 
 <!-- QUOTE:END -->
 
