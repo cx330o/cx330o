@@ -44,7 +44,7 @@
 | Project | Description | Language | Stars | Updated |
 |---------|-------------|----------|-------|---------|
 | 🔷 [cx330o-fastsend](https://github.com/cx330o/cx330o-fastsend) | A lightweight, self-hosted web clipboard for sharing text and files across de... | TypeScript | ⭐ 3 | 2 months ago |
-| 🔷 [cx330o-agent](https://github.com/cx330o/cx330o-agent) | Full-stack AI agent platform with multi-turn tool calling, real-time streamin... | TypeScript | ⭐ 4 | 2 months ago |
+| 🔷 [cx330o-agent](https://github.com/cx330o/cx330o-agent) | Full-stack AI agent platform with multi-turn tool calling, real-time streamin... | TypeScript | ⭐ 4 | 3 months ago |
 | 🔷 [cx330o-hosei](https://github.com/cx330o/cx330o-hosei) | 法政大学3キャンパス統合プラットフォーム - 電車・バス時刻表 + 学生SNS + AIチャットボット \| React 19 + Flask + Groq... | TypeScript | ⭐ 3 | 3 months ago |
 | 🐍 [h-radar-v0](https://github.com/cx330o/h-radar-v0) | リアルタイムミリ波レーダーデータ取得・可視化システム | Python | ⭐ 31 | 5 months ago |
 
@@ -146,7 +146,7 @@ _Could not fetch activity._
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+function+of+good+software+is+to+make+the+complex+appear+to+be+simple.&author=Grady+Booch" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programming+is+the+art+of+telling+another+human+what+one+wants+the+computer+to+do.&author=Donald+Knuth" />
 
 <!-- QUOTE:END -->
 
