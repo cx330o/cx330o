@@ -146,7 +146,7 @@ _Could not fetch activity._
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perfection+is+achieved+not+when+there+is+nothing+more+to+add,+but+when+there+is+nothing+left+to+take+away.&author=Antoine+de+Saint-Exupéry" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Make+it+work,+make+it+right,+make+it+fast.&author=Kent+Beck" />
 
 <!-- QUOTE:END -->
 
