@@ -46,7 +46,7 @@
 | 🔷 [cx330o-fastsend](https://github.com/cx330o/cx330o-fastsend) | A lightweight, self-hosted web clipboard for sharing text and files across de... | TypeScript | ⭐ 3 | 5 months ago |
 | 🔷 [cx330o-agent](https://github.com/cx330o/cx330o-agent) | Full-stack AI agent platform with multi-turn tool calling, real-time streamin... | TypeScript | ⭐ 4 | 5 months ago |
 | 🔷 [cx330o-hosei](https://github.com/cx330o/cx330o-hosei) | 法政大学3キャンパス統合プラットフォーム - 電車・バス時刻表 + 学生SNS + AIチャットボット \| React 19 + Flask + Groq... | TypeScript | ⭐ 3 | 5 months ago |
-| 🐍 [h-radar-v0](https://github.com/cx330o/h-radar-v0) | リアルタイムミリ波レーダーデータ取得・可視化システム | Python | ⭐ 31 | 7 months ago |
+| 🐍 [h-radar-v0](https://github.com/cx330o/h-radar-v0) | リアルタイムミリ波レーダーデータ取得・可視化システム | Python | ⭐ 31 | 8 months ago |
 
 <!-- PROJECTS:END -->
 
