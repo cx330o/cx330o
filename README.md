@@ -146,7 +146,7 @@ _Could not fetch activity._
 <div align="center">
 
 <!-- QUOTE:START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Debugging+is+twice+as+hard+as+writing+the+code+in+the+first+place.&author=Brian+Kernighan" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Talk+is+cheap.+Show+me+the+code.&author=Linus+Torvalds" />
 
 <!-- QUOTE:END -->
 
